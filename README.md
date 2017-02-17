@@ -1,1 +1,7 @@
-# GUMTREE Email 560px![Gumtree promotional/News letter Email](images/Readme.png "Gumtree news letter")
+# GUMTREE Email 560px
+
+<hr/>
+
+<br/>
+
+![Gumtree promotional/News letter Email](images/Readme.png?raw=true "Desktop" target="_blank")
