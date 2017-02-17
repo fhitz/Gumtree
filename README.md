@@ -1,6 +1,3 @@
-# Gumtree Email
+# GUMTREE Email
 
-* Desktop width 560px
-
-![alt tag](https://github.com/fhitz/Gumtree/blob/master/images/Readme.png)
-
+![Gumtree promotional/News letter Email](images/Readme.png "Gumtree news letter")
