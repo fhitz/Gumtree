@@ -2,6 +2,4 @@
 
 <hr/>
 
-<br/>
-
-![Gumtree promotional/News letter Email](images/Readme.png?raw=true "Desktop" target="_blank")
+![Gumtree promotional/News letter Email](images/Readme.png "Desktop" target="_blank")
